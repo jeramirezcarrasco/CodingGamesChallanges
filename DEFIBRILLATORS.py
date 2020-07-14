@@ -1,3 +1,10 @@
+# Difficulty: Easy
+# Language:Python
+# Time: 1 hour
+
+# Description:The city of Montpellier has equipped its streets with defibrillators to help save victims of cardiac arrests
+# Based on the data we provide in the tests, write a program that will allow users to find the defibrillator nearest to their location
+
 import sys
 import math
 
