@@ -5,7 +5,7 @@
 
 # Given the location of fire on the strip, you have to command the firefighter to put out all fire with the least number of water drops.
 
-# https://www.codingame.com/ide/puzzle/1d-bush-fire
+# https://www.codingame.com/training/easy/1d-bush-fire
 
 
 import sys
